@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project for Odin. Building a recipe website. # odin-recipes
